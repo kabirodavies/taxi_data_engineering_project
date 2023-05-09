@@ -33,3 +33,5 @@ More info about dataset can be found here:
 
 ## Data Model
 <img src="data_model.jpeg">
+
+Looker Studio Dashboard - https://lookerstudio.google.com/reporting/1ad4ce21-1ea3-4c82-8835-9fa96c9d2608
